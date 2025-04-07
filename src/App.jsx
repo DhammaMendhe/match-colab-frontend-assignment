@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "flowbite/dist/flowbite.css";
 
 import "./App.css";
 import Hero from "./component/Hero";

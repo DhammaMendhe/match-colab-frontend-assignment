@@ -4,14 +4,7 @@ This repository contains the Frontend Developer assignment for Match Colab. The 
 =======
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 1213064 (first commit for frontend)
+![Screenshot 2025-04-07 180245](https://github.com/user-attachments/assets/3d92e37b-69ed-4d8e-94f6-57d3087d7ff7)
+![Screenshot 2025-04-07 180233](https://github.com/user-attachments/assets/9a0a9193-ab58-4090-a0fe-94c1e5bf1360)
+![Screenshot 2025-04-07 180217](https://github.com/user-attachments/assets/397e13e4-7a05-4116-ba91-b28d8dbef64b)
+![Screenshot 2025-04-07 205606](https://github.com/user-attachments/assets/9435ea72-5514-4905-9675-39f5b79fc43e)
